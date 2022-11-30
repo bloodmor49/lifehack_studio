@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lifehack_studio_test</string>
+    <string name="place_info">Описание места</string>
+    <string name="place_des"> Pub  спасает от серых будней повседневности, раскрашивает жизнь яркими красками хмеля и солода, наполняет ее сочным вкусом незабываемых блюд, дарит тепло и комфорт своим гостям.\r\nThe James Shark Pub - пивной ресторан в центре Красноярска. Свежее, холодное пиво,  вкусные и разнообразные блюда, широкий а</string>
+    <string name="place_num">#</string>
+    <string name="place_www">www</string>
+    <string name="place_phone">+89999999</string>
+    <string name="places_list">Список компаний</string>
+    <string name="btn_on_map">На карте</string>
+</resources>
